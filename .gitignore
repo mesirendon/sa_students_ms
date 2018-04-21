@@ -13,4 +13,6 @@
 !/log/.keep
 !/tmp/.keep
 
+*.lock
+
 .byebug_history
